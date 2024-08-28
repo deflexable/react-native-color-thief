@@ -7,10 +7,17 @@ A React Native node module that grabs the dominant color or a representative col
 An adapted version of Sven Woltmann's fast [color-thief-java](https://github.com/SvenWoltmann/color-thief-java) and Kazuki Ohara's [ColorThiefSwift](https://github.com/yamoridon/ColorThiefSwift) from Lokesh Dhakar's original javascript project [color-thief](https://github.com/lokesh/color-thief/)
 
 
-## Getting started
-`$ npm install git://github.com/6DegreeLabs/react-native-color-thief.git --save`
+## Installation
 
-`//TODO $ npm install react-native-color-thief --save`
+```sh
+npm install react-native-color-thief --save
+```
+
+or using yarn
+
+```sh
+yarn add react-native-color-thief
+```
 
 ## Mostly automatic installation
 
